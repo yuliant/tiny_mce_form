@@ -25,8 +25,8 @@
     <script>
         tinymce.init({
             selector: "textarea",
-            plugins: "code media",
-            toolbar: "undo redo | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link code image_upload media",
+            plugins: "code media table",
+            toolbar: "undo redo | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link code image_upload media table",
             menubar: false,
             statusbar: false,
 
