@@ -15,9 +15,7 @@
         <div class="row">
             <h2>TinyMCE Upload Image with Jquery Ajax and PHP</h2>
 
-            <form id="posts" name="posts" method="post">
-                <textarea name="message" id="message"></textarea><br>
-            </form>
+            <textarea name="message" id="message"></textarea><br>
 
         </div>
     </div>
